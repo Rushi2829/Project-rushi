@@ -1,1 +1,1 @@
-# Project-rushi
+# Project-Student Grade Calculator 
